@@ -9,10 +9,10 @@ Originally : Sammihan Deshmukh
 
 ## About Me
 
-Currently Pursuing B.E in Electronics and Telecommunication Engineering.
-I Like to Build Hardware Prototypes , Embedded Programming and High VHDL Projects.
-My main Interest is in Machine learning and AI , I also build AI automation workflows.
-My focus is on learning by doing — close to the hardware and code.
+ * Currently Pursuing B.E in Electronics and Telecommunication Engineering.
+*  I Like to Build Hardware Prototypes , Embedded Programming and High VHDL Projects.
+  * My main Interest is in Machine learning and AI , I also build AI automation workflows.
+  * My focus is on learning by doing — close to the hardware and code.
 
 
 ---
