@@ -36,25 +36,25 @@ My focus is on learning by doing — close to the hardware and code.
 ---
 
 ## Featured Repositories
--[**Machine Learning Notes**](https://github.com/Samihand2891/Machine-Learning-Notes)["Updating"]
--[**Health Insurance Policy Comparator**](https://github.com/Samihand2891/AIPC-_Workshop)
+-  [**Machine Learning Notes**](https://github.com/Samihand2891/Machine-Learning-Notes)["Updating"]
+-  [**Health Insurance Policy Comparator**](https://github.com/Samihand2891/AIPC-_Workshop)
 
 
 ---
 
 ## Current Focus
 
-- Machine Learning 
-- Participating in multiple contest for experience 
-- 4th sem
-- Hardware/software integration
-- Digital VLSI
+-   Machine Learning 
+-   Participating in multiple contest for experience 
+-   4th sem
+-   Hardware/software integration
+-   Digital VLSI
 ---
 
 ## Connect
 
-- **GitHub:**[github.com/Samihand2891](https://github.com/Samihand2891)
-- **Email:** [sam338919@gmail.com](mailto:sam338919@gmail.com)
+-   **GitHub:**[github.com/Samihand2891](https://github.com/Samihand2891)
+-   **Email:** [sam338919@gmail.com](mailto:sam338919@gmail.com)
 
 ---
 
