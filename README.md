@@ -23,7 +23,7 @@ Originally : Sammihan Deshmukh
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![MachineLearning](https://img.shields.io/badge/Skill-MachineLearning-informational?style=flat&logo=MachineLearning)
-![RISC-V](https://img.shields.io/badge/Hardware-RISC-V-informational?style=flat&logo=arduino)
+![RISC-V](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=RISC-V)
 ![FPGA](https://img.shields.io/badge/Hardware-FPGA-informational?style=flat&logo=FPGA)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
 
