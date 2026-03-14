@@ -19,7 +19,7 @@ Originally : Sammihan Deshmukh
 
 ## Skills
 
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
+![Verilog](https://img.shields.io/badge/Code-C-informational?style=flat&logo=verilog)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![MachineLearning](https://img.shields.io/badge/Skill-MachineLearning-informational?style=flat&logo=MachineLearning)
